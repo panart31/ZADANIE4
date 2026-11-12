@@ -1,0 +1,14 @@
+.vs/
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+*.db
+*.log
+genlab_history.csv
+report.docx
+report.xlsx
